@@ -1,0 +1,2 @@
+# textlint-terminology-terms
+
