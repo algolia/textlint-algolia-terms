@@ -6,6 +6,9 @@
   "repository": "git@github.com:algolia/textlint-algolia-terms.git",
   "author": "Algolia",
   "license": "MIT",
+  "scripts": {
+    "release": "./scripts/release"
+  },
   "devDependencies": {
     "np": "^3.0.4"
   }
