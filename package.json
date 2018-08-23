@@ -7,7 +7,8 @@
   "author": "Algolia",
   "license": "MIT",
   "scripts": {
-    "release": "./scripts/release"
+    "release": "./scripts/release",
+    "test": "true"
   },
   "devDependencies": {
     "np": "^3.0.4"
