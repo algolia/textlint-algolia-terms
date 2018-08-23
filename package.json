@@ -1,9 +1,9 @@
 {
-  "name": "textlint-terminology-terms",
+  "name": "textlint-algolia-terms",
   "version": "0.0.0",
   "description": "List of terms to automatically fix with textlint-rule-terminology",
   "main": "terms.json",
-  "repository": "git@github.com:algolia/textlint-terminology-terms.git",
+  "repository": "git@github.com:algolia/textlint-algolia-terms.git",
   "author": "Algolia",
   "license": "MIT"
 }
