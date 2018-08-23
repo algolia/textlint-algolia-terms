@@ -5,5 +5,8 @@
   "main": "terms.json",
   "repository": "git@github.com:algolia/textlint-algolia-terms.git",
   "author": "Algolia",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "np": "^3.0.4"
+  }
 }
