@@ -6,4 +6,9 @@ if [[ $(basename "$_") != "npm" ]]; then
   exit 1
 fi
 
+# read -p "Enter your npm 2FA: " otp
 np
+
+
+
+
